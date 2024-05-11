@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "bolseiro.jwt.expiration",
+    "type": "java.lang.String",
+    "description": "A description for 'bolseiro.jwt.expiration'"
+  },
+  {
+    "name": "bolseiro.jwt.secret",
+    "type": "java.lang.String",
+    "description": "A description for 'bolseiro.jwt.secret'"
+  }
+]}
